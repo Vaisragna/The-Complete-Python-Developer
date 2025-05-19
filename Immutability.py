@@ -1,0 +1,1 @@
+# strings indexes cannot be change but by replacing the string completely
